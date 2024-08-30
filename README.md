@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project, developed as part of the Afretec Summer School in Smart Systems, focuses on predicting the number of confirmed COVID-19 cases using deep learning techniques. The project leverages an LSTM (Long Short-Term Memory) neural network to model and forecast the progression of the pandemic over time based on historical data.
+This project, developed as part of the Afretec Summer School on Smart Systems, focuses on predicting the number of confirmed COVID-19 cases using deep learning techniques. The project leverages an LSTM (Long Short-Term Memory) neural network to model and forecast the progression of the pandemic over time based on historical data.
 
 ### Team Members:
 1. Ahmed Mostafa
