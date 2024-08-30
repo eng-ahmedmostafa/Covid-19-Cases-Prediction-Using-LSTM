@@ -37,19 +37,6 @@ The project is organized as follows:
 
 5. **Error Handling:** The project includes steps to handle potential errors related to data sequencing and preprocessing, ensuring robust model performance.
 
-## How to Run
-
-1. **Dependencies:** Ensure you have the necessary Python libraries installed:
-   ```bash
-   pip install pandas numpy matplotlib seaborn torch scikit-learn
-   ```
-
-2. **Data:** Place the `covid_19_data.csv` file in the root directory of the project.
-
-3. **Execution:** Run the provided notebook or script to execute the data preprocessing, model training, and evaluation steps.
-
-4. **Results:** After training, the model's performance can be evaluated using the validation data. The notebook includes visualization tools to plot predictions versus actual confirmed cases.
-
 ## Conclusion
 
 This project demonstrates the application of deep learning in predicting COVID-19 case trends. The use of LSTM models highlights the importance of capturing temporal dependencies in time series data. This approach can be extended to various time series forecasting problems beyond the scope of this project.
